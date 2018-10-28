@@ -1,0 +1,15 @@
+{
+	"name": "wazum/pagetree-memorable",
+	"description": "Make the page tree remember its last position",
+	"require": {
+		"php": ">=7.0.0",
+		"typo3/cms-core": "^8.7"
+	},
+	"type": "typo3-cms-extension",
+	"version": "1.0.0",
+	"autoload": {
+		"psr-4": {
+			"Wazum\\PagetreeMemorable\\": "Classes"
+		}
+	}
+}
